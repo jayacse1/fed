@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>courses.html</title>
+</head>
+<body style="background:blue">
+<h2> COURSES OFFERED </h2>
+<p>
+<h3>
+<ul>
+<li>BE CSE</li>
+<li>BE AIDS</li>
+<li>BE CSBS</li>
+<li>BE AIML</li>
+<li>BE MECH</li>
+<li>BE IT</li>
+</h3>
+</p>
+</ul>
+</body>
+</html>
