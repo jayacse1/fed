@@ -1,0 +1,13 @@
+h2{
+color:black;
+text-transform:uppercase;
+background:blue;
+color:white;
+}
+
+UL LI{
+font-size:12pt;
+color:black;
+text-transform:uppercase;
+text-align:center;
+}
